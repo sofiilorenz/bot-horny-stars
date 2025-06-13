@@ -1,0 +1,56 @@
+{
+  "estrellas": {},
+  "nominaciones_activas": {
+    "1382048866387492937": {
+      "usuario_id": 849797560696307713,
+      "mensaje": "es god",
+      "moderador_id": 753015401813639329,
+      "votos_actuales": 2,
+      "votantes": [
+        753015401813639329,
+        735567029318320210
+      ],
+      "canal_id": 1381846696710901781
+    },
+    "1382824664174170132": {
+      "usuario_id": 735567029318320210,
+      "mensaje": "aksdjakldka",
+      "moderador_id": 849797560696307713,
+      "votos_actuales": 2,
+      "votantes": [
+        849797560696307713,
+        804768201144664131
+      ],
+      "canal_id": 1381846696710901781
+    },
+    "1382829576400408750": {
+      "usuario_id": 602154436030365701,
+      "mensaje": "kjalshdjkashdjkashjdaj",
+      "moderador_id": 849797560696307713,
+      "votos_actuales": 4,
+      "votantes": [
+        849797560696307713,
+        698364892801007699,
+        804768201144664131,
+        680035412189642777
+      ],
+      "canal_id": 1381846696710901781
+    },
+    "1382832322662895668": {
+      "usuario_id": 602154436030365701,
+      "mensaje": "lakjsdjkalsdjkasdkasgaygaygay",
+      "moderador_id": 849797560696307713,
+      "votos_actuales": 0,
+      "votantes": [],
+      "canal_id": 1381846696710901781
+    },
+    "1382840910693269685": {
+      "usuario_id": 602154436030365701,
+      "mensaje": "kasjadkkasd",
+      "moderador_id": 849797560696307713,
+      "votos_actuales": 0,
+      "votantes": [],
+      "canal_id": 1381846696710901781
+    }
+  }
+}

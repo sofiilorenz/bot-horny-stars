@@ -93,33 +93,10 @@ número de reacciones requeridas
 emoji utilizado para votar
 canales utilizados
 
-para cambios más avanzados, edita bot.js:
-
-colores de los embeds
-mensajes del bot
-lógica del sistema
-
-🗄️ base de datos
-actualmente usa almacenamiento en memoria. para producción, considera implementar:
-
-sqlite (simple)
-postgresql (robusto)
-mongodb (flexible)
-
 🛡️ seguridad
 
 el archivo config.json está en .gitignore por seguridad
 solo usuarios con permisos de "gestionar mensajes" pueden usar comandos de moderador
 verificación automática de permisos en todas las interacciones
-
-📈 mejoras futuras
-
-base de datos persistente
-sistema de logros
-estadísticas detalladas
-cooldowns anti-spam
-configuración por servidor
-dashboard web
-
 
 copyright 2025 sofia lorenz
